@@ -10,37 +10,39 @@
 | 이태양 | Server | [ycs-201807027](https://github.com/ycs-201807027) | xodid4025@naver.com |
 | 장 진 | Server | [ycs-202007064](https://github.com/ycs-202007064) | 1602spam@naver.com |
 | 편성윤 | Client | [PyunSungYun](https://github.com/PyunSungYun) | psy7217@naver.com |
+| 김예지 | Client | [Yeji](https://github.com/) | Kimyeji0042@naver.com |
+| 김선화 | Client | [PyunSungYun](https://github.com/) | thsghk18@naver.com |
+| 김태산 | Client | [PyunSungYun](https://github.com/) | ursceal@naver.com |
 
 ## Capstone_Reference
 메인 레퍼지토리 <br>
 담당자 : 편성윤 </br>
 [Capstone_Reference](https://github.com/PyunSungYun/Capstone_Reference)  </br>
 
-## Capstone_Reference_Client_UI
+## Capstone_Reference_Server
 Client_UI <br>
 담당자 : 이종수 </br>
 [Capstone_Reference_Client_UI](https://github.com/ycs-201807062/Capstone_Reference_Client_UI)</br>
 
-## Capstone_Reference_Client_module
+## Capstone_Reference_Game
 Client_Module   </br>
 담당자 : 유영주  </br>
 [Capstone_Reference_Client_module](https://github.com/ycs-202007051/Capstone_Reference_Client_module)</br>
 
-## Capstone_Reference_Server_UI
+## Capstone_Reference_Client
 Server_UI </br>
 담당자 : 장진 </br>
 [Capstone_Reference_Server_UI](https://github.com/ycs-202007064/Capstone_Reference_Server_UI)</br>
-
-## Capstone_Reference_Server_module
-Server_Module <br>
-담당자 : 이태양 </br>
-[Capstone_Reference_Server_module](https://github.com/ycs-201807027/Capstone_Reference_Server_module)</br>
 
 ## Capstone_Reference_Network
 소켓 통신을 활용한 네트워크 프로그램 <br>
 담당자 : 이무현 </br>
 [Capstone_Reference_Network](https://github.com/poro912/Capstone_Reference_Network)</br>
 
+## Capstone_Reference_Server_module
+Server_Module <br>
+담당자 : 이태양 </br>
+[Capstone_Reference_Server_module](https://github.com/ycs-201807027/Capstone_Reference_Server_module)</br>
 
 ## 느낀점, 후기
 | 유영주 | |
@@ -50,3 +52,6 @@ Server_Module <br>
 | 이태양 |  |
 | 장 진 |  |
 | 편성윤 |  |
+| 김예지 |  |
+| 김선화 |  |
+| 김태산 |  |
