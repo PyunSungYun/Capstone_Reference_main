@@ -15,33 +15,33 @@
 | 김태산 | Client | [PyunSungYun](https://github.com/) | ursceal@naver.com |
 
 ## Capstone_Reference
-메인 레퍼지토리 <br>
 [Capstone_Reference](https://github.com/PyunSungYun/Capstone_Reference)  </br>
+메인 레퍼지토리 <br>
 담당자 : 편성윤 </br>
 
 ## Capstone_Reference_Client
-Client </br>
 [Capstone_Reference_Client](https://github.com/1602spam/Capstone_Reference_Client)</br>
+Client </br>
 담당자 : 장진, 김예지, 이종수, 이무현, 유영주, 김선화 </br>
 
 ## Capstone_Reference_Server
-Server <br>
 [Capstone_Reference_Client_UI](https://github.com/ycs-201807062/Capstone_Reference_Client_UI)</br>
+Server <br>
 담당자 : 이무현 </br>
 
 ## Capstone_Reference_Network
-소켓 통신을 활용한 네트워크 프로그램 <br>
 [Capstone_Reference_Network](https://github.com/poro912/Capstone_Reference_Network)</br>
+소켓 통신을 활용한 네트워크 프로그램 <br>
 담당자 : 이무현, 편성윤 </br>
 
 ## Capstone_Reference_Game
-질문 게임 <br>
 [Capstone_Reference_Server_module](https://github.com/ycs-201807027/Capstone_Reference_Server_module)</br>
+질문 게임 <br>
 담당자 : 이태양 </br>
 
 ## Capstone_Reference_Game
-Client_Module   </br>
 [Capstone_Reference_Client_module](https://github.com/ycs-202007051/Capstone_Reference_Client_module)</br>
+Client_Module   </br>
 담당자 : </br>
 
 ## 느낀점, 후기
