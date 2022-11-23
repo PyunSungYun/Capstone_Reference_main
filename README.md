@@ -19,30 +19,30 @@
 담당자 : 편성윤 </br>
 [Capstone_Reference](https://github.com/PyunSungYun/Capstone_Reference)  </br>
 
+## Capstone_Reference_Client
+Server_UI </br>
+담당자 : 장진 </br>
+[Capstone_Reference_Client](https://github.com/1602spam/Capstone_Reference_Client)</br>
+
 ## Capstone_Reference_Server
 Client_UI <br>
 담당자 : 이종수 </br>
 [Capstone_Reference_Client_UI](https://github.com/ycs-201807062/Capstone_Reference_Client_UI)</br>
-
-## Capstone_Reference_Game
-Client_Module   </br>
-담당자 : 유영주  </br>
-[Capstone_Reference_Client_module](https://github.com/ycs-202007051/Capstone_Reference_Client_module)</br>
-
-## Capstone_Reference_Client
-Server_UI </br>
-담당자 : 장진 </br>
-[Capstone_Reference_Server_UI](https://github.com/ycs-202007064/Capstone_Reference_Server_UI)</br>
 
 ## Capstone_Reference_Network
 소켓 통신을 활용한 네트워크 프로그램 <br>
 담당자 : 이무현 </br>
 [Capstone_Reference_Network](https://github.com/poro912/Capstone_Reference_Network)</br>
 
-## Capstone_Reference_Server_module
+## Capstone_Reference_Server_Game
 Server_Module <br>
 담당자 : 이태양 </br>
 [Capstone_Reference_Server_module](https://github.com/ycs-201807027/Capstone_Reference_Server_module)</br>
+
+## Capstone_Reference_Game
+Client_Module   </br>
+담당자 : 유영주  </br>
+[Capstone_Reference_Client_module](https://github.com/ycs-202007051/Capstone_Reference_Client_module)</br>
 
 ## 느낀점, 후기
 | 유영주 | |
