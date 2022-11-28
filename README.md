@@ -25,7 +25,7 @@ Client </br>
 담당자 : 장진, 김예지, 이종수, 이무현, 유영주, 김선화 </br>
 
 ## Capstone_Reference_Server
-[Capstone_Reference_Client_UI](https://github.com/ycs-201807062/Capstone_Reference_Client_UI)</br>
+[Capstone_Reference_Server](https://github.com/ycs-201807062/Capstone_Reference_Server)</br>
 Server <br>
 담당자 : 이무현 </br>
 
