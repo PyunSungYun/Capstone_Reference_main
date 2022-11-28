@@ -35,7 +35,7 @@ Server <br>
 담당자 : 이무현, 편성윤 </br>
 
 ## Capstone_Reference_Game
-[Capstone_Reference_Server_module](https://github.com/ycs-201807027/Capstone_Reference_Server_module)</br>
+[Capstone_Reference_Game](https://github.com/ycs-201807027/Capstone_Reference_Game)</br>
 질문 게임 <br>
 담당자 : 이태양 </br>
 
