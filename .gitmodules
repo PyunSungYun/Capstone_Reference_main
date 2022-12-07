@@ -1,0 +1,12 @@
+[submodule "Capstone_Reference_Client"]
+	path = Capstone_Reference_Client
+	url = https://github.com/1602spam/Capstone_Reference_Client.git
+[submodule "Capstone_Reference_Server"]
+	path = Capstone_Reference_Server
+	url = https://github.com/ycs-201807062/Capstone_Reference_Server.git
+[submodule "Capstone_Reference_Network"]
+	path = Capstone_Reference_Network
+	url = https://github.com/poro912/Capstone_Reference_Network.git
+[submodule "Capstone_Reference_Game"]
+	path = Capstone_Reference_Game
+	url = https://github.com/ycs-201807027/Capstone_Reference_Game.git
