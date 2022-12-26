@@ -3,7 +3,7 @@
 
 ## 접속 유형
 <image src="접속유형_교수.png"></impage>
-<image src=".접속유형_학생.png"></impage>
+<image src="접속유형_학생.png"></impage>
 ## 메인화면
 <image src="메인_교수.png"></impage>
 <image src="메인_학생.png"></impage>
