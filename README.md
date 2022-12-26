@@ -15,8 +15,6 @@ Reference 팀 </br>
 | 김선화 | Client | [](https://github.com/) | thsghk18@naver.com |
 | 김태산 | Client | [](https://github.com/) | ursceal@naver.com |
 
-</br>
-
 ## [Capstone_Reference](https://github.com/PyunSungYun/Capstone_Reference)
 메인 레퍼지토리 <br>
 담당자 : 편성윤 </br>
