@@ -2,7 +2,9 @@
 유한대학교 캡스톤 프로젝트  </br>
 Reference 팀 </br>
 * 개발 언어 : C# .NET 5.0
-* 개발 환경 : Windows Form, Windows OS
+* 개발 환경 : Windows Form, Windows OS 
+
+[다운로드 StudyWithMe](https://github.com/PyunSungYun/Capstone_Reference_main/raw/main/StudyWithMe%20Install.zip)
 
 ## Summary
 강의실 학습 지원 프로그램 </br>
