@@ -9,6 +9,8 @@
 <image src="메인_학생.png"></impage>
 ## 채팅
 <image src="채팅.png"></impage>
+## 학생관리
+<image src="학생관리.png"></impage>
 ## 질문
 <image src="질문_OX설정.png"></impage>
 <image src="질문_OX.png"></impage>
