@@ -72,4 +72,11 @@ Reference 팀 </br>
 | 김선화 |  |
 | 김태산 |  |
 
-## Image
+## [Image](https://github.com/PyunSungYun/Capstone_Reference_main/tree/main/image)
+<image src="./image/접속유형선택.png"></impage>
+<image src="./image/메인_교수.png"></impage>
+<image src="./image/채팅.png"></impage>
+<image src="./image/학생관리.png"></impage>
+<image src="./image/질문_객관식.png"></impage>
+<image src="./image/질문_객관식결과.png"></impage>
+<image src="./image/필기노트.png"></impage>
