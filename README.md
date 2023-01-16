@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20With%20Me&fontSize=90&animation=fadeIn&fontAlignY=38&desc=강의%20학습%20지원%20프로그램&descAlignY=51&descAlign=62)
 ## Reference
 유한대학교 캡스톤 프로젝트  </br>
 Reference 팀 </br>
