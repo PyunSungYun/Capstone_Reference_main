@@ -1,7 +1,7 @@
 ## Reference
 유한대학교 캡스톤 프로젝트  </br>
 Reference 팀 </br>
-* 개발 언어 : C# .NET 5.0
+* 개발 언어 : C# .Net FrameWork 6.0
 * 개발 환경 : Windows Form, Windows OS 
 
 [다운로드 StudyWithMe](https://github.com/PyunSungYun/Capstone_Reference_main/raw/main/StudyWithMe%20Install.zip)
@@ -81,5 +81,5 @@ Reference 팀 </br>
 | 장 진 | Server | [ycs-202007064](https://github.com/ycs-202007064) | 1602spam@naver.com |
 | 편성윤 | Client | [PyunSungYun](https://github.com/PyunSungYun) | psy7217@naver.com |
 | 김예지 | Client | [ycs-202007052](https://github.com/ycs-202007052) | Kimyeji0042@naver.com |
-| 김선화 | Client | [](https://github.com/) | thsghk18@naver.com |
-| 김태산 | Client | [](https://github.com/) | ursceal@naver.com |
+| 김선화 | Client | [ycs-202007045](https://github.com/ycs-202007045) | thsghk18@naver.com |
+| 김태산 | Client | [ycs-201807067](https://github.com/ycs-201807067) | ursceal@naver.com |
